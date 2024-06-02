@@ -1,2 +1,4 @@
-# HomeLab_PublicDocs
-Home Lab Set Up And Guides (Public)
+# HomeLab
+
+## Servers
+- [Game Server](/Game%20Server/)
